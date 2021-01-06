@@ -166,6 +166,13 @@ const details = [
     name: "Scroll Animation",
     demolink: "https://angry-jones-222427.netlify.app/",
     description: "Awesome Scroll Animation"
+  },
+  {
+    image_link:
+      "https://github.com/Akash52/awesome-Javascript-collection/blob/master/Awesome-JavaScript-Example/Images/Scroll-animation.png?raw=true",
+    name: "News App",
+    demolink: "https://angry-jones-222427.netlify.app/",
+    description: "Awesome Scroll Animation"
   }
 ];
 
