@@ -173,6 +173,13 @@ const details = [
     name: "Technical News App",
     demolink: "https://suspicious-jones-8fd7ed.netlify.app/",
     description: "Awesome Technical News App"
+  },
+  {
+    image_link:
+      "https://github.com/Akash52/awesome-Javascript-collection/blob/master/Awesome-JavaScript-Example/Images/Welcome-to-Indian-News.png?raw=true",
+    name: "Technical News App",
+    demolink: "https://suspicious-jones-8fd7ed.netlify.app/",
+    description: "Awesome Technical News App"
   }
 ];
 
