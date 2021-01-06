@@ -172,7 +172,7 @@ const details = [
       "https://github.com/Akash52/awesome-Javascript-collection/blob/master/Awesome-JavaScript-Example/Images/Scroll-animation.png?raw=true",
     name: "Technical News App",
     demolink: "https://suspicious-jones-8fd7ed.netlify.app/",
-    description: "Awesome Scroll Animation"
+    description: "Awesome Technical News App"
   }
 ];
 
